@@ -1,5 +1,5 @@
 # Instagram Clone Interface
 
-#-🙋‍♂ Apresentação:
+#- 🙋‍♂ Apresentação:
 
 Clone da pagina inicial do Instagram.
